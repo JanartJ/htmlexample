@@ -7,7 +7,7 @@
 }
 
 .mainDivContainer{
-    background-color: aqua;
+    background-color: blue;
     display: grid;
     grid-template-rows: 1fr 10fr 1fr;
     height: 100vh;
